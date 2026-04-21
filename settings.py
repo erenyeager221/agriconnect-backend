@@ -81,7 +81,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Agriconnect.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
